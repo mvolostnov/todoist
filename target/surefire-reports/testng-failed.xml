@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Failed suite [todoist]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" parallel="classes" name="Task tests(failed)" verbose="0">
+    <classes>
+      <class name="com.apitests.test.suites.task.CreateNewTaskTest">
+        <methods>
+          <include name="addNewTaskMandatoryFieldsTest"/>
+          <include name="afterMethod"/>
+          <include name="browserSetup"/>
+          <include name="beforeEachTest"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.apitests.test.suites.task.CreateNewTaskTest -->
+    </classes>
+  </test> <!-- Task tests(failed) -->
+</suite> <!-- Failed suite [todoist] -->

@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 46.91 s <<< FAILURE! - in TestSuite
+addNewTaskMandatoryFieldsTest(com.apitests.test.suites.task.CreateNewTaskTest)  Time elapsed: 0.704 s  <<< FAILURE!
+java.lang.AssertionError: 
+1 expectation failed.
+Expected status code <200> but was <429>.
+
+	at com.apitests.test.suites.task.CreateNewTaskTest.addNewTaskMandatoryFieldsTest(CreateNewTaskTest.java:24)
+
