@@ -1,0 +1,18 @@
+2020-02-26 19:45:16 [main] INFO  RestAssuredTestGet.java:37 - Verify country: USA
+2020-02-26 20:50:31 [main] INFO  RestAssuredTestGet.java:37 - Verify country: USA
+2020-02-27 16:48:24 [main] INFO  RestAssuredTestGet.java:37 - Verify country: USA
+2020-03-16 15:58:37 [main] INFO  DatabaseConnection.java:42 - Connected to the database!
+2020-03-16 18:34:21 [main] INFO  DatabaseConnection.java:46 - Connected to the database!
+2020-03-21 21:10:05 [main] INFO  DatabaseConnection.java:46 - Connected to the database!
+2020-03-21 21:10:57 [main] INFO  DatabaseConnection.java:46 - Connected to the database!
+2020-03-22 12:14:20 [main] INFO  DatabaseConnection.java:46 - Connected to the database!
+2020-03-22 12:16:25 [main] INFO  DatabaseConnection.java:46 - Connected to the database!
+2020-06-18 13:52:24 [main] INFO  DatabaseConnection.java:46 - Connected to the database!
+2020-06-18 23:33:40 [main] INFO  CreateNewTaskTest.java:50 - Token = 5fab9e4f40137c4d3ec7d851e1d8ae9b1e9511f4
+2020-06-18 23:39:51 [main] INFO  CreateNewTaskTest.java:50 - Token = 2539849cb760bae5d6ccd649da8e3ceac3b866f7
+2020-06-18 23:42:52 [main] INFO  CreateNewTaskTest.java:50 - Token = null
+2020-06-18 23:43:17 [main] INFO  CreateNewTaskTest.java:50 - Token = 522b090c48b92bbf4334d51307370c1fdd59a82c
+2020-06-18 23:46:08 [main] INFO  CreateNewTaskTest.java:50 - Token = bad20e233397d231fc045fb46c17f15630c04b6c
+2020-06-18 23:52:11 [main] INFO  CreateNewTaskTest.java:50 - Token = 9f5dfd1d196050efb825aa4129c257554ab52ec2
+2020-06-18 23:53:50 [main] INFO  CreateNewTaskTest.java:50 - Token = 793227077e4c08969b993d1365e0a083cc487b40
+2020-06-18 23:56:09 [main] INFO  CreateNewTaskTest.java:50 - Token = 5a82dfa36259bf35b40ead074cdd20178139ba85
