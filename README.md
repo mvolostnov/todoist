@@ -9,3 +9,5 @@ Create a new task test cases
 5. Fields validation/combinations
 
 Some fields need clarification
+
+NOTE: To run tests in intellij idea Lombok plugin should be installed.
