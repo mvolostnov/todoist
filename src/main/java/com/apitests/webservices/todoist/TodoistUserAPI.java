@@ -23,6 +23,6 @@ public class TodoistUserAPI {
                 .post(Endpoints.deleteUser)
                 .then()
                 .statusCode(200);
-        log.info("Deleted user with token = {}", token);
+        log.info("Delete user with token = {}", token);
     }
 }

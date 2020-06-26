@@ -31,7 +31,7 @@ public class TodoistAPI {
                         .then()
                         .statusCode(200)
                         .extract().response().body().path("token");
-        log.info("Registered new user with token = {}", token);
+        log.info("Register new user with token = {}", token);
         return this;
     }
 

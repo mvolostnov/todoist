@@ -45,11 +45,7 @@ public class BaseTest {
 
     public static void addReport(ITestResult result){
         if (result.getStatus() == ITestResult.FAILURE) {
-            try{
-                extentTest.fail(result.getThrowable());
-            } catch (Exception e){
-                log.info("Exception while taking screenshot {}", e.getMessage());
-            }
+            extentTest.fail(result.getThrowable());
         }
         else if (result.getStatus() == ITestResult.SKIP)
             extentTest.skip(result.getThrowable());

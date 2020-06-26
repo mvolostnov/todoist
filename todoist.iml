@@ -36,7 +36,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: com.github.java-json-tools:json-schema-validator:2.2.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.java-json-tools:json-schema-core:1.2.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.java-json-tools:jackson-coreutils:1.9" level="project" />
-    <orderEntry type="library" scope="TEST" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.2.3" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.fge:msg-simple:1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.fge:btf:1.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: com.github.fge:uri-template:0.9" level="project" />
@@ -116,9 +115,9 @@
     <orderEntry type="library" name="Maven: com.thoughtworks.xstream:xstream:1.4.11.1" level="project" />
     <orderEntry type="library" name="Maven: xmlpull:xmlpull:1.1.3.1" level="project" />
     <orderEntry type="library" name="Maven: xpp3:xpp3_min:1.1.4c" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.10.3" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.10" level="project" />
-    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.10" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.0" level="project" />
     <orderEntry type="library" name="Maven: org.codejargon:fluentjdbc:1.8.4" level="project" />
   </component>
 </module>
